@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "habit-5baae"
-  }
+    "default": "habit-5baae",
+    "production": "lifehack-pro"
+  },
+  "targets": {},
+  "etags": {}
 }
